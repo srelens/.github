@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/srelens/srelens/main/apps/desktop/src/assets/srelens-logo.svg" alt="SRELens" width="420" />
+  <img src="https://raw.githubusercontent.com/srelens/srelens/main/apps/desktop/src/assets/srelens-logo.svg" alt="srelens" width="420" />
 </p>
 
 <p align="center">
@@ -8,9 +8,9 @@
 
 ---
 
-## SRELens
+## srelens
 
-[**SRELens**](https://github.com/srelens/srelens) is a fast, lightweight Kubernetes IDE built with [Tauri v2](https://v2.tauri.app) and a pure-Rust core — a modern take on Lens/Freelens without Electron.
+[**srelens**](https://github.com/srelens/srelens) is a fast, lightweight Kubernetes IDE built with [Tauri v2](https://v2.tauri.app) and a pure-Rust core — a modern take on Lens/Freelens without Electron.
 
 What makes it different:
 
